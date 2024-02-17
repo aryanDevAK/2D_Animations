@@ -1,41 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Adobe Animate CC</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            background-color: white;
-            margin: 0;
-            padding: 0;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #fff;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        }
-        h1 {
-            text-align: center;
-            color: #333;
-        }
-        p {
-            color: #555;
-        }
-        ul {
-            list-style-type: disc;
-            margin-left: 20px;
-        }
-    </style>
-</head>
 <body>
     <div class="container">
-        <h1>Adobe Animate CC</h1>
+        <h1 style="color: #ff401f;">Adobe Animate CC</h1>
         <p>Welcome to the repository for Adobe Animate CC! This repository serves as a comprehensive guide to mastering 2D animation using Adobe Animate CC, covering every aspect of the software for beginners and experienced animators alike.</p>
         <h2>Overview</h2>
         <p>Adobe Animate CC is a powerful tool for creating interactive animations and multimedia content. Whether you're a hobbyist or a professional animator, this software offers a wide range of features to bring your ideas to life.</p>
@@ -58,4 +23,4 @@
         <p>If you find any issues or have suggestions for improving this repository, feel free to contribute by submitting pull requests or opening issues.</p>
     </div>
 </body>
-</html>
+
