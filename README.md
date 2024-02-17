@@ -8,7 +8,7 @@
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
-            background-color: #f7f7f7;
+            background-color: white;
             margin: 0;
             padding: 0;
         }
@@ -54,7 +54,6 @@
             <li><strong>Documentation:</strong> Refer to the official Adobe Animate CC documentation for in-depth explanations of features and workflows.</li>
             <li><strong>Community Support:</strong> Join online forums and communities to connect with other Adobe Animate users and share your work.</li>
         </ul>
-
         <h2>Contributing</h2>
         <p>If you find any issues or have suggestions for improving this repository, feel free to contribute by submitting pull requests or opening issues.</p>
     </div>
