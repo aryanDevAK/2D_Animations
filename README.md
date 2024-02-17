@@ -1,2 +1,1 @@
-<p style="text-align: center;"><b>Adobe Animate </b></p>
-
+<p align="center"><b>Adobe Animate </b></p>
